@@ -1,0 +1,2 @@
+<?php
+    echo max($lesNotes);
